@@ -29,9 +29,18 @@
 .content{
     padding-left: 100px;
 }
-
+.content h5{
+    color: #fc5b27;
+}
+.content h1{
+    font-weight: bold
+    ;
+}
 .content p{
     text-align: justify;
+}
+span{
+    color: #21B573;
 }
 /* ***************************Cover END************************************************/
 
