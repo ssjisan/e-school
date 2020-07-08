@@ -1,0 +1,123 @@
+.container{
+    background-color:#F0FFF0;
+    padding-bottom: 50px;
+    padding-left:50px;
+    padding-right: 50px;
+}
+.container-color{
+    background-color: white;
+}
+/****************************** All Button Start *************************************/
+.btn-signin{
+    background-color: #21B573;
+    color: whitesmoke;
+    width: 100px;
+    height: 35px;
+    border: none;
+    border-radius: 50px;
+    margin-top: 1px;
+    
+}
+.btn-signin:hover{
+    box-shadow: 2.5px 2.5px 2.5px gray;
+    font-size: 15px;
+}
+/****************************** All Button End ***************************************/
+
+/* ***************************Cover Start************************************************/
+
+.content{
+    padding-left: 100px;
+}
+
+.content p{
+    text-align: justify;
+}
+/* ***************************Cover END************************************************/
+
+/*******************************Topics,Test Details ******************************** */
+#distance{
+    margin-top: 50px;
+}
+.details-box{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    background-color: #F8FFFB;
+    border-radius: 10px;
+}
+.details-box:hover{
+    width: 210px;
+    height: 210px;
+    box-shadow: 10px 10px 20px gray;
+    background-color: white;
+}
+.details-box img{
+    padding-top: 10px;
+    width: 150px;
+    height: 100px;
+    padding-left: 60px;
+}
+/******************************** Topics, Test Details End ***************************/
+
+/********************************* ALL Headline START **************************************/
+.headline{
+    text-align: center;
+    margin-bottom: 50px;
+}  
+/********************************* ALL Headline END **************************************/
+
+/********************************** Online Courses START *********************************/
+.card-img-top{
+    width: 95%;
+    height: 50%;
+    padding-left: 15px;
+    padding-top: 10px;
+}
+
+.card p{
+    margin-top: 30px;
+    font-size: 15px;
+}
+
+.card p img{
+    margin-top: -5px;
+}
+/********************************** Online Courses END *********************************/
+
+/*******************************Last Section Start  ************************************/
+.list{
+    list-style-type: none;
+    list-style: none;
+}
+
+.list a{
+    color: white;
+}
+
+.list a:hover{
+    color: rgb(241, 7, 202);
+    text-decoration: none;
+}
+
+#final-container{
+    padding-top: 100px;
+    background-color:#282531;
+    color: whitesmoke;
+}
+
+#info-about-school p{
+    text-align: justify;
+}
+
+.section-align{
+    margin-left: auto;
+}
+/*****************************************************Last Section END  *******************/
+/**********************************************Footer START *******************************/
+footer{
+    text-align: center;
+    color: white;
+    margin-top: 50px;
+}
+/**********************************************Footer END  *********************************/
